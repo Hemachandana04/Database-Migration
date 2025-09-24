@@ -14,15 +14,15 @@ The migration ensures:
 
 Tech Stack :
 
-Python
+✅ Python
 
-SQLite (simulating MySQL & PostgreSQL)
+✅ SQLite (simulating MySQL & PostgreSQL)
 
-Pandas (for data handling)
+✅ Pandas (for data handling)
 
-SQLAlchemy (for database connection & migration)
+✅ SQLAlchemy (for database connection & migration)
 
-Tabulate (for pretty table output in Colab)
+✅ Tabulate (for pretty table output in Colab)
 
 
 Features :
